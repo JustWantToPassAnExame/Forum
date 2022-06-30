@@ -1,0 +1,15 @@
+C:\Users\Rom4ikk\source\repos\Forum\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\Rom4ikk\source\repos\Forum\Business\bin\Debug\net6.0\Business.dll
+C:\Users\Rom4ikk\source\repos\Forum\Business\bin\Debug\net6.0\ref\Business.dll
+C:\Users\Rom4ikk\source\repos\Forum\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\Rom4ikk\source\repos\Forum\Business\bin\Debug\net6.0\Data.dll
+C:\Users\Rom4ikk\source\repos\Forum\Business\bin\Debug\net6.0\Data.pdb
+C:\Users\Rom4ikk\source\repos\Forum\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\Rom4ikk\source\repos\Forum\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rom4ikk\source\repos\Forum\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\Rom4ikk\source\repos\Forum\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\Rom4ikk\source\repos\Forum\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Rom4ikk\source\repos\Forum\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\Rom4ikk\source\repos\Forum\Business\obj\Debug\net6.0\Business.dll
+C:\Users\Rom4ikk\source\repos\Forum\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\Rom4ikk\source\repos\Forum\Business\obj\Debug\net6.0\Business.pdb

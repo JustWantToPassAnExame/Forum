@@ -11,10 +11,10 @@ namespace Data.Data
         }
 
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=Forum;Trusted_Connection=True;");
-        }
+       // protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+         //   optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=Forum;Trusted_Connection=True;");
+       // }
         public ForumDbContext(DbContextOptions<ForumDbContext> options) : base(options)
         {
         }
